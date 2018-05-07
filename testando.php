@@ -2,7 +2,7 @@
 use teste\Service\MidiaService;
 
 require_once __DIR__. '/./vendor/autoload.php';
-include createOrEditmidia.php;
+include exibirouFiltrarmidia.php;
 
 $midiaService =new MidiaService();
 
